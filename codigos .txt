@@ -1,0 +1,24 @@
+
+*Primeiro Parágrafo
+<div id="conteudo1">
+
+        <h1>Seja bem-vindo(a) ao Blog Ruído Sujo!</h1><br>
+        <p id="msg"></p>
+        <hr size="1" width="20%" align="center" noshade>
+        <p>Ruído Sujo é um blog derivado de um finado podcast dedicado ao mundo do Heavy Metal e da múisica<br>
+            pesada em geral.</p>
+    </div>
+	
+*Menu
+<div id="menu">
+        <nav>
+            <ul class="menu" ; type="circle">
+                <img src="./img/logo_site2.png" width="150" height="150" />
+                <li><a href="#">Home</a></li><br>
+                <li><a href="#">Sobre</a></li><br>
+                <li><a href="#">Instagram</a></li><br>
+                <li><a href="#">GitHub</a></li><br>
+                <li><a href="#">Youtube</a></li>
+
+            </ul>
+        </nav>
